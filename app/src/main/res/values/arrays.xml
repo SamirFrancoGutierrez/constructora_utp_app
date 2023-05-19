@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="habitaciones_principales">
+        <item>2 habitaciones principales</item>
+        <item>3 habitaciones principales</item>
+        <item>4 habitaciones principales</item>
+    </string-array>
+
+    <string-array name="pisos">
+        <item>Primer piso</item>
+        <item>Segundo piso</item>
+        <item>Tercer piso</item>
+        <item>Cuarto piso</item>
+    </string-array>
+</resources>
